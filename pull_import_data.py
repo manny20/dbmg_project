@@ -50,7 +50,7 @@ def dat_to_csv():
 # 		os.system('mongod')
 
 
-# find + replace C:\Users\peter\Dropbox\SMU\7330_dbmgmt\project1\fsq\umn_foursquare_datasets\ with location of your CSVs
+
 
 
 def add_to_mongo():
