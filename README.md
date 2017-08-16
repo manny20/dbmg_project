@@ -11,10 +11,13 @@ Windows users can find convetions explained [here](https://github.com/htpeter/db
 
 Make sure /data/db directory is created. Now run "mongod" and it should startup the server.
 
-### 3 : Run (pull_import_data.py)[https://github.com/htpeter/dbmg_project/blob/master/pull_import_data.py]
+### 3 : Run [pull_import_data.py](https://github.com/htpeter/dbmg_project/blob/master/pull_import_data.py)
 
 This script will download and unzip the data, format the files, and upload them to your MongoDB local instance. You will then have a database "dbmg" with 5 tables of the FSQ data!
 
 ### 4 : Play w/ the data and try running some of our analysis.
+
+https://github.com/htpeter/dbmg_project/blob/master/FSQ%20Analysis%20Notebook.ipynb
+
 
 
