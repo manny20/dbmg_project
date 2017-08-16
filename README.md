@@ -3,6 +3,14 @@
 
 ### ATN: The main initialization script in this repository currently uses Unix conventions and will only work on Unix-like machines (MacOS & Linux). Windows users can follow along manually and achieve the same result.
 
+#### Third Party Python Libraries Used
+1. requests
+2. pymongo
+3. networkx
+4. pandas
+5. matplotlib
+6. seaborn
+
 ### 1 : Installing MongoDB Locally
 Users can download the database instance at https://www.mongodb.com/download-center#community.
 Windows users can find convetions explained [here](https://github.com/htpeter/dbmg_project/blob/master/Intro%20to%20MongoDB.pdf) 
