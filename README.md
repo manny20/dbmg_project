@@ -23,7 +23,7 @@ Make sure /data/db directory is created. Now run "mongod" and it should startup 
 
 This script will download and unzip the data, format the files, and upload them to your MongoDB local instance. You will then have a database "dbmg" with 5 tables of the FSQ data!
 
-### 4 : Play w/ the data and try running some of our analysis.
+### 4 : Play w/ the data and try running some of our analyses.
 
 https://github.com/htpeter/dbmg_project/blob/master/FSQ%20Analysis%20Notebook.ipynb
 
